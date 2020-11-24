@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+That's portfolio site which is i made for myself.
+Eh, idk what to say lol. Just a portfilo.
 <!--
 **BugraUmut/bugraumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
