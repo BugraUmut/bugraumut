@@ -116,7 +116,7 @@ body {
   }
   
   #hero .social-links a:hover {
-    color: #0563bb
+    color: #0563bb;
     transform: scale(1.3);
   }
   
